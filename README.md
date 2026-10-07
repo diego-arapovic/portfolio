@@ -16,3 +16,9 @@ A modular framework built in CARLA that integrates probabilistic logic shields w
 **[CIL Road Segmentation Challenge](https://github.com/elena-lyulina/cil-road-segmentation)**  
 Collaborative project for ETH Zürich's CIL course focused on road segmentation from aerial images.  
 - Contributed to pipeline development, model training, and post-processing strategies.
+
+---
+
+## 🌐 GeoHash
+**[ASL FS2025 GeoHash — Team 51](https://github.com/diego-arapovic/asl-geohash-team51)**
+ASL FS2025 (ETH) team project focused on GeoHash-based spatial representation.
