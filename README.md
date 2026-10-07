@@ -21,4 +21,4 @@ Collaborative project for ETH Zürich's CIL course focused on road segmentation 
 
 ## 🌐 GeoHash
 **[ASL FS2025 GeoHash — Team 51](https://github.com/diego-arapovic/asl-geohash-team51)**
-ASL FS2025 (ETH) team project focused on GeoHash-based spatial representation.
+ASL FS2025 (ETH) team project focused on GeoHash-based spatial representation. **C++ project.**
